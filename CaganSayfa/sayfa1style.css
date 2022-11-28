@@ -52,6 +52,7 @@ p {
     /* transition-duration: 600ms; */
     transition-timing-function: ease;
     transition: all 150ms ease-in 125ms;
+    color: black;
 }
 
 .nav1 {
